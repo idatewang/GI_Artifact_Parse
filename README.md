@@ -1,4 +1,4 @@
-# GI_Artifacts_Mark
+# GI_Artifact_Parse
 ## Overview
 A script that can identify attributes of Genshin Impact artifacts to help with resource spending.
 ## Features
